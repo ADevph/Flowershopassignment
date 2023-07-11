@@ -127,6 +127,138 @@ padding: 15px 25px;
 margin-top: 20px;
 }
 
+#insta-description{
+   
+    padding: 30px 150px;
+}
+.section-title {
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+
+}
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    
+    font-size: 13px;
+    
+    font-weight: 400;
+  
+}
+
+.insta{
+    
+    
+    padding: 5px 15px 5px 5px ;
+    border-radius: px;
+    background: #FFF;
+   
+    
+}
+.insta-container{
+   
+    display: flex;
+    gap: 2px;
+    justify-content: center;
+   
+    margin-left: 160px;
+    margin-right: 160px;
+
+}
+
+.emailtitle{
+ color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+line-height: normal;
+}
+.script{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+
+}
+
+ .pic {
+   padding: 30px;
+    width: 1400px; 
+    height: auto; 
+    display: block;
+    margin-top: 150px;
+    margin-bottom: 150px;
+  }
+  
+ .emailsection {
+    position: relative;
+  }
+  
+  .econtent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .emailtitle {
+color: #272727;
+text-align: center;
+font-size: 30px;
+font-weight: 800;
+padding: 5px;
+  }
+  
+  .script {
+   
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 12px;
+font-weight: 400;
+margin-bottom: 30px;
+  }
+  
+  .email {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .input-wrapper {
+   
+    display: flex;
+  }
+  
+  input[type="email"] {
+    padding: 10px;
+    color: #757575;
+    border-radius: 5px 0 0 5px;
+    background: #FFF;
+    border: 0;
+   
+  }
+  
+  .btn-sub {
+
+    padding: 15px 20px;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: bold;
+    background: #E55473;
+    border: 0;
+    border-radius: 0 5px 5px 0;
+  }
+  
+
+
+
+
+
+
 
 .footer{
 
@@ -159,7 +291,7 @@ color: rgba(255, 255, 255, 0.90);
 text-align: center;
 font-size: 9px;
 font-weight: 400;
-line-height: 30px;
+
 }
 
 
@@ -172,5 +304,6 @@ display: flex;
 
 align-items: center;
 justify-content: center;
-    margin: 130px 0;
+margin: 0px;
+
 }    
