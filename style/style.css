@@ -30,6 +30,7 @@ line-height: 30px;
 }
 
 .bannerpic{
+  
    width: 500px;
 }
 
@@ -40,7 +41,7 @@ line-height: 30px;
     margin-top: 2px;
     margin-bottom: 10px;
     display: flex;
-    width: 700px;
+    width: 600px;
     flex-direction: column;
     flex-shrink: 0;
 
@@ -58,3 +59,118 @@ padding: 15px 25px;
 .header{
     background-color: rgba(229, 84, 115, 0.10);
 }
+.offclr{
+    color:rgba(229, 84, 115, 1);
+    font-size: 25px;
+    font-weight: 800;
+}
+.alldiscount{
+
+    margin-top: 400px;
+}
+
+.aboutdiscount{
+margin-top: 50px;
+        padding: 30px;
+        border-radius: 10px;
+        background: rgba(229, 84, 115, 0.05);
+display: flex;
+
+align-items: center;
+justify-content: center;
+        margin: 130px 0;
+    
+}
+
+.aboutdiscount .discountimg{
+    margin-left: 50px;
+    height: 200px;
+    width: 150px;
+}
+
+.discountthings {
+
+ 
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+
+}
+
+.discounttitle{
+    color: #272727;
+    text-align: center;
+    font-weight: 700;
+}
+.discountcontent{
+  
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+      }
+      
+
+.btn-discount{
+    
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+background: #E55473;
+border: 0;
+color: white;
+font-size: 15px;
+font-weight: 700;
+padding: 15px 25px;
+margin-top: 20px;
+}
+
+
+.footer{
+
+    background-color: #111010;
+}
+
+.flowerclr{
+    color: #E55473;
+}
+.shopclr{
+   color: rgba(255, 255, 255, 1);
+}
+
+.copyright{
+
+ color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 9px;
+font-weight: 400;
+line-height: normal;
+}
+
+.footertitle{
+  
+    text-align: center;
+
+}
+.footerabout{
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 9px;
+font-weight: 400;
+line-height: 30px;
+}
+
+
+.footerflower{
+    margin-top: 60px;
+    padding: 40px;
+    border-radius: 10px;
+ background: #111010;
+display: flex;
+
+align-items: center;
+justify-content: center;
+    margin: 130px 0;
+}    
